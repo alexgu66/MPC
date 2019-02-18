@@ -25,7 +25,7 @@
 
 * The update equations are,
 
-  ![update_equations](C:\temp\Backup\Work\UC\Self Driving Car\Part 2 Sensor Fusion Localization\5.21 P MPC Project\CarND-MPC-Project-master\update_equations.JPG)
+  ![update_equations](/update_equations.JPG)
 
   In the simulator however, a positive value implies a right turn and a negative value implies a left turn, which changes the negative/positive of delta.
 
